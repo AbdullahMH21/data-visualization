@@ -1,0 +1,10 @@
+# Ignore virual environment
+vis_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor settings
+.vscode/
+*.log
